@@ -57,7 +57,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Kap
+GIF created with LiceCap
 
 <!-- Recommended tools:
 
